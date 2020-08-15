@@ -5,7 +5,8 @@ public class TesteGIT {
 	public static void main(String[] args) {
 		
 		System.out.println("Hello GIT");
-		System.out.println("Outra alteração GIT");
+		//Alterado pelo sistema
+		//System.out.println("Outra alteraÃ§Ã£o GIT");
 
 	}
 
