@@ -7,6 +7,7 @@ public class TesteGIT {
 		System.out.println("Hello GIT");
 		//Alterado pelo sistema
 		//System.out.println("Outra alteração GIT");
+		System.out.println("Integrado");
 
 	}
 
